@@ -25,9 +25,9 @@ def judge_demo():
 def data_exchange():
     # 数据转型
 
-    inputData = input('please input some number : ')
-    inputNumber = int(inputData)
-    print(inputNumber)
+    input_data = input('please input some number : ')
+    input_number = int(input_data)
+    print(input_number)
 
 
 data_exchange()
