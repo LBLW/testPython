@@ -30,4 +30,4 @@ def data_exchange():
     print(input_number)
 
 
-data_exchange()
+# judge_demo()
